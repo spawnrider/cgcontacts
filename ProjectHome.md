@@ -1,0 +1,1 @@
+A tiny and simple Google contact list for Chrome
